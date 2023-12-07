@@ -1,5 +1,5 @@
 {
-  "name": "commerce-build",
+  "name": "sfcc-build",
   "description": "Build tool for Online Storefronts",
   "keywords": [
     "build",
@@ -15,7 +15,7 @@
     "magento",
     "e-commerce"
   ],
-  "version": "3.1.1",
+  "version": "1.0.0",
   "main": "src/index.js",
   "repository": {
     "type": "git",
